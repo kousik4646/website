@@ -1,0 +1,52 @@
+.header{
+    display: flex;
+    background-color: #00A9E0;
+    padding: 10px;
+    color: rgb(200, 129, 129);
+}
+.heading-div{
+display: flex;
+}
+.logo {
+    padding-right: 40px;
+    display: flex; 
+     flex-direction: row;
+    justify-content: start;
+}
+.cont1{
+    padding-left: 20px;
+}
+.skk{
+    top: 300px;
+
+}
+.img1{
+    padding-right: 40px;
+
+} 
+
+.sub{
+    display: flex;
+}
+
+.buttons {
+    display: flex;
+    gap: 10px;
+    margin-right: 10px;
+}
+
+button {
+    background-color: white;
+    color: #00A9E0;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.search-btn {
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
